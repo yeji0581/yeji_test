@@ -1,0 +1,110 @@
+{
+  "spacing": {
+    "none": { "value": "0", "type": "dimension" },
+    "3xs": { "value": "2", "type": "dimension" },
+    "xxs": { "value": "4", "type": "dimension" },
+    "xs": { "value": "8", "type": "dimension" },
+    "sm": { "value": "12", "type": "dimension" },
+    "md": { "value": "16", "type": "dimension" },
+    "lg": { "value": "20", "type": "dimension" },
+    "xl": { "value": "24", "type": "dimension" },
+    "2xl": { "value": "32", "type": "dimension" },
+    "3xl": { "value": "40", "type": "dimension" }
+  },
+  "radius": {
+    "none": { "value": "0", "type": "dimension" },
+    "xxs": { "value": "2", "type": "dimension" },
+    "xs": { "value": "4", "type": "dimension" },
+    "sm": { "value": "8", "type": "dimension" },
+    "md": { "value": "12", "type": "dimension" },
+    "lg": { "value": "16", "type": "dimension" },
+    "pill": { "value": "20", "type": "dimension" },
+    "xl": { "value": "24", "type": "dimension" }
+  },
+  "font": {
+    "family": { "value": "pretendard, sans-serif", "type": "fontFamily" },
+    "size": {
+      "10": { "value": "10", "type": "dimension" },
+      "11": { "value": "11", "type": "dimension" },
+      "12": { "value": "12", "type": "dimension" },
+      "13": { "value": "13", "type": "dimension" },
+      "14": { "value": "14", "type": "dimension" },
+      "15": { "value": "15", "type": "dimension" },
+      "16": { "value": "16", "type": "dimension" },
+      "18": { "value": "18", "type": "dimension" },
+      "24": { "value": "24", "type": "dimension" },
+      "28": { "value": "28", "type": "dimension" }
+    },
+    "weight": {
+      "400": { "value": "400", "type": "fontWeight" },
+      "700": { "value": "700", "type": "fontWeight" }
+    }
+  },
+  "line-height": {
+    "14": { "value": "14", "type": "dimension" },
+    "16": { "value": "16", "type": "dimension" },
+    "18": { "value": "18", "type": "dimension" },
+    "20": { "value": "20", "type": "dimension" },
+    "28": { "value": "28", "type": "dimension" },
+    "32": { "value": "32", "type": "dimension" }
+  },
+  "type": {
+    "h1-headline": {
+      "size": { "value": "28", "type": "dimension" },
+      "line-height": { "value": "32", "type": "dimension" },
+      "weight": { "value": "700", "type": "fontWeight" }
+    },
+    "h2-headline": {
+      "size": { "value": "24", "type": "dimension" },
+      "line-height": { "value": "28", "type": "dimension" },
+      "weight": { "value": "700", "type": "fontWeight" }
+    },
+    "s1-subtitle": {
+      "size": { "value": "18", "type": "dimension" },
+      "line-height": { "value": "20", "type": "dimension" },
+      "weight": { "value": "700", "type": "fontWeight" }
+    },
+    "s2-subtitle": {
+      "size": { "value": "16", "type": "dimension" },
+      "line-height": { "value": "20", "type": "dimension" },
+      "weight": { "value": "700", "type": "fontWeight" }
+    },
+    "b1-body": {
+      "size": { "value": "15", "type": "dimension" },
+      "line-height": { "value": "18", "type": "dimension" },
+      "weight": { "value": "700", "type": "fontWeight" }
+    },
+    "b2-body": {
+      "size": { "value": "14", "type": "dimension" },
+      "line-height": { "value": "16", "type": "dimension" },
+      "weight": { "value": "400", "type": "fontWeight" }
+    },
+    "b3-body": {
+      "size": { "value": "14", "type": "dimension" },
+      "line-height": { "value": "16", "type": "dimension" },
+      "weight": { "value": "700", "type": "fontWeight" }
+    },
+    "b4-body": {
+      "size": { "value": "13", "type": "dimension" },
+      "line-height": { "value": "16", "type": "dimension" },
+      "weight": { "value": "700", "type": "fontWeight" }
+    },
+    "b5-body": {
+      "size": { "value": "12", "type": "dimension" },
+      "line-height": { "value": "14", "type": "dimension" },
+      "weight": { "value": "400", "type": "fontWeight" }
+    },
+    "c1-caption": {
+      "size": { "value": "11", "type": "dimension" },
+      "line-height": { "value": "16", "type": "dimension" },
+      "weight": { "value": "400", "type": "fontWeight" },
+      "letter-spacing": { "value": "-0.3px", "type": "dimension" }
+    },
+    "c2-caption": {
+      "size": { "value": "10", "type": "dimension" },
+      "line-height": { "value": "16", "type": "dimension" },
+      "weight": { "value": "400", "type": "fontWeight" },
+      "letter-spacing": { "value": "-0.3px", "type": "dimension" }
+    }
+  }
+}
